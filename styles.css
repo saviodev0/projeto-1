@@ -98,7 +98,8 @@ opacity: 0.3;
 }
 
 .link:active{
-    opacity: .7;
+    color: #6FBF44;
+    opacity: 1;
 }
 
 #button-h:hover{

@@ -99,7 +99,7 @@ opacity: 0.3;
 
 .link:active{
     color: #6FBF44;
-    opacity: 1;
+    opacity: .9;
 }
 
 #button-h:hover{
